@@ -1,0 +1,1 @@
+echo "Task ran at %time%" >> E:\Projet\api_coingecko\logfile_test.txt

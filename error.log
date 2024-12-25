@@ -1,0 +1,77 @@
+INFO:root:Started
+ERROR:root:An error occurred: HTTPSConnectionPool(host='api.coingecko.com', port=443): Max retries exceeded with url: /api/v3/simple/price?ids=bitcoin%2Csolana&vs_currencies=eur%2Cusd&include_market_cap=true&include_24hr_vol=true&include_24hr_change=true&include_last_updated_at=true&precision=2 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fef7a6f3ad0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+INFO:root:Finished
+INFO:root:Started
+ERROR:root:Une erreur de connexion s'est produite. Veuillez vérifier votre connexion Internet.. HTTPSConnectionPool(host='api.coingecko.com', port=443): Max retries exceeded with url: /api/v3/simple/price?ids=bitcoin%2Csolana&vs_currencies=eur%2Cusd&include_market_cap=true&include_24hr_vol=true&include_24hr_change=true&include_last_updated_at=true&precision=2 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fef7a6faa50>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
+INFO:root:Started
+ERROR:root:An error occurred: Expecting value: line 1 column 1 (char 0)
+INFO:root:Finished
+INFO:root:Started
+ERROR:root:Une erreur s'est produite: Expecting value: line 1 column 1 (char 0)
+INFO:root:Finished
+INFO:root:Started
+ERROR:root:Une erreur s'est produite: Expecting value: line 1 column 1 (char 0)
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
+ERROR:root:Une erreur s'est produite: %s
+ERROR:root:Une erreur s'est produite: %s
+ERROR:root:Une erreur s'est produite: %s
+ERROR:root:Une erreur s'est produite: %s
+ERROR:root:Une erreur s'est produite: %s
+ERROR:root:Une erreur s'est produite: %s
+ERROR:root:Une erreur s'est produite: %s
+ERROR:root:Une erreur s'est produite: %s
+ERROR:root:Une erreur s'est produite: %s
+ERROR:root:Une erreur s'est produite: %s
+ERROR:root:Une erreur s'est produite: %s
+ERROR:root:Une erreur s'est produite: %s
+ERROR:root:Une erreur s'est produite: %s
+ERROR:root:Une erreur s'est produite: %s
+ERROR:root:Une erreur s'est produite: %s
+ERROR:root:Une erreur s'est produite: %s
+ERROR:root:Une erreur s'est produite: %s
+ERROR:root:Une erreur s'est produite: %s
+ERROR:root:Une erreur s'est produite: %s
+ERROR:root:Une erreur s'est produite: %s
+ERROR:root:Une erreur s'est produite: %s
+ERROR:root:Une erreur s'est produite: %s
+ERROR:root:Une erreur s'est produite: %s
+ERROR:root:Une erreur s'est produite: %s
+ERROR:root:Une erreur s'est produite: %s
+ERROR:root:Une erreur s'est produite: %s
+ERROR:root:Une erreur s'est produite: %s
+ERROR:root:Une erreur s'est produite: %s
+ERROR:root:Une erreur s'est produite: %s
+ERROR:root:Une erreur s'est produite: %s
+ERROR:root:Une erreur s'est produite: %s
+ERROR:root:Une erreur s'est produite: %s
+ERROR:root:Une erreur s'est produite: %s
+ERROR:root:Une erreur s'est produite: %s
+ERROR:root:Une erreur s'est produite: %s
+ERROR:root:Une erreur s'est produite: %s
+ERROR:root:Une erreur s'est produite: %s
+ERROR:root:Une erreur s'est produite: %s
+ERROR:root:Une erreur s'est produite: %s
+ERROR:root:Une erreur s'est produite: %s
+ERROR:root:Une erreur s'est produite: %s
+ERROR:root:Une erreur s'est produite: %s
+ERROR:root:Une erreur s'est produite: %s
+ERROR:root:Une erreur s'est produite: %s
+ERROR:root:Une erreur s'est produite: %s
+ERROR:root:Une erreur s'est produite: %s
+ERROR:root:Une erreur s'est produite: %s
+INFO:root:Started
+ERROR:root:Une erreur s'est produite: No connection adapters were found for 'htts://api.coingecko.com/api/v3/simple/price?ids=bitcoin%2Csolana&vs_currencies=eur%2Cusd&include_market_cap=true&include_24hr_vol=true&include_24hr_change=true&include_last_updated_at=true&precision=2'
+INFO:root:Finished
+INFO:root:Started
+INFO:root:Finished
